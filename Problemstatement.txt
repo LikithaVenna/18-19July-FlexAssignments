@@ -1,0 +1,5 @@
+ASSIGNMENT ON FLEXBOX
+1.	Create two external css files name them as main.css and flexstyle.css.Add the reference of both the css files in flexboxAssign1.html file using the link tag
+2.	The final output should rotate, translate scale and skew the respective squares. Please complete the above assignment by completing the CSS file.
+
+
