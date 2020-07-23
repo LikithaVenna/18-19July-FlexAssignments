@@ -42,7 +42,7 @@ transform: skew(30deg, 0);
 }
 
 #rotate .square:hover {   
-     transform: rotate(40deg);
+     transform: rotate(50deg);
 }
 
 
